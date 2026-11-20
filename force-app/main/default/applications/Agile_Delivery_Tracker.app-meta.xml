@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0B6E4F</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>End-to-end Salesforce Agile Basics tracker: projects, sprints, and user stories from backlog to Done.</description>
+    <formFactors>Large</formFactors>
+    <formFactors>Small</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Agile Delivery Tracker</label>
+    <navType>Standard</navType>
+    <tabs>Agile_Project__c</tabs>
+    <tabs>Agile_Sprint__c</tabs>
+    <tabs>Agile_User_Story__c</tabs>
+    <uiType>Lightning</uiType>
+</CustomApplication>

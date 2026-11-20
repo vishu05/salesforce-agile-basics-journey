@@ -1,0 +1,30 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+~$*
+.vscode/
+.idea/
+
+# Office lock / temp
+*.~lock.*
+
+# Salesforce local
+.sf/
+.sfdx/
+.localdevserver/
+illuminatedCloud/
+**/auraProperties.json
+
+# Local secrets (never commit)
+.env
+.env.*
+*.pfx
+credentials.json
+auth.json
+
+# Build scratch
+scripts/_tmp/
+docs/images/_src/

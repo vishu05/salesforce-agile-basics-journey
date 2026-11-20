@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>User story / backlog item for agile delivery tracking.</description>
+    <enableActivities>true</enableActivities>
+    <enableReports>true</enableReports>
+    <enableSearch>true</enableSearch>
+    <label>Agile User Story</label>
+    <nameField>
+        <label>Story Title</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Agile User Stories</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>

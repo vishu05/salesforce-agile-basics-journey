@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lean_Principle__c</fullName>
+    <label>Lean Principle</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value><fullName>Respect People</fullName><default>false</default><label>Respect People</label></value>
+            <value><fullName>Eliminate Waste</fullName><default>false</default><label>Eliminate Waste</label></value>
+            <value><fullName>Deliver Fast</fullName><default>false</default><label>Deliver Fast</label></value>
+            <value><fullName>Just-in-Time Decisions</fullName><default>false</default><label>Just-in-Time Decisions</label></value>
+            <value><fullName>Optimize the Whole</fullName><default>false</default><label>Optimize the Whole</label></value>
+            <value><fullName>Create Knowledge</fullName><default>false</default><label>Create Knowledge</label></value>
+            <value><fullName>Build Quality In</fullName><default>false</default><label>Build Quality In</label></value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
